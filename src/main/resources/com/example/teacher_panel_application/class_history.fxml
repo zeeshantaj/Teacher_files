@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.teacher_panel_application.ClassHistory"
+            prefHeight="400.0" prefWidth="500.0">
+    <children>
+        <Label alignment="CENTER" contentDisplay="CENTER"
+               layoutX="169.0" layoutY="230.0" prefHeight="141.0"
+               prefWidth="862.0" text="Class history" textFill="WHITE">
+            <font>
+                <Font size="24.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
